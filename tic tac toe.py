@@ -267,8 +267,3 @@ game.start_game()
 # todo: add computer player mode   ✔
 # todo: make sure computer symbol not match with player symbol  ✔
 # todo: add timer for each player and punish if out time by random step  ✔
-
-
-def hello(name):
-    return f'hello {name}'
-
